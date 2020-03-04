@@ -1,0 +1,14 @@
+C:\Users\hi-fi\Documents\Visual Studio 2010\Projects\testscore\testscore\bin\Debug\testscore.exe
+C:\Users\hi-fi\Documents\Visual Studio 2010\Projects\testscore\testscore\bin\Debug\testscore.pdb
+C:\Users\hi-fi\Documents\Visual Studio 2010\Projects\testscore\testscore\obj\x86\Debug\testscore.Form1.resources
+C:\Users\hi-fi\Documents\Visual Studio 2010\Projects\testscore\testscore\obj\x86\Debug\testscore.Properties.Resources.resources
+C:\Users\hi-fi\Documents\Visual Studio 2010\Projects\testscore\testscore\obj\x86\Debug\testscore.csproj.GenerateResource.Cache
+C:\Users\hi-fi\Documents\Visual Studio 2010\Projects\testscore\testscore\obj\x86\Debug\testscore.exe
+C:\Users\hi-fi\Documents\Visual Studio 2010\Projects\testscore\testscore\obj\x86\Debug\testscore.pdb
+C:\Users\hi-fi\Desktop\testscore\testscore\testscore\obj\x86\Debug\testscore.exe
+C:\Users\hi-fi\Desktop\testscore\testscore\testscore\obj\x86\Debug\testscore.pdb
+C:\Users\hi-fi\Desktop\testscore\testscore\testscore\bin\Debug\testscore.exe
+C:\Users\hi-fi\Desktop\testscore\testscore\testscore\bin\Debug\testscore.pdb
+C:\Users\hi-fi\Desktop\testscore\testscore\testscore\obj\x86\Debug\testscore.Form1.resources
+C:\Users\hi-fi\Desktop\testscore\testscore\testscore\obj\x86\Debug\testscore.Properties.Resources.resources
+C:\Users\hi-fi\Desktop\testscore\testscore\testscore\obj\x86\Debug\testscore.csproj.GenerateResource.Cache
